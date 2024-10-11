@@ -17,4 +17,4 @@ Open the notebook file, `dlnd_face_generation_starter.ipynb` and run each sectio
 * **Loss Functions and Gradient Penalty**: use the Wasserstein loss function and gradient penalty
 * **Training Loop**: implemented the training loop.
 
-Building a deep learning model is an iterative process, and it's especially true for GANs! Good luck!
+Building a deep learning model is an iterative process, and it's especially true for GANs!
