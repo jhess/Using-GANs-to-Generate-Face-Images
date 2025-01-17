@@ -21,6 +21,7 @@ Building a deep learning model is an iterative process, and it's especially true
 
 Output Faces after just 10 epochs of training:
 ![Generated Faces](outputfaces.png)
-
+<br>
 Training Loss over 10 epochs of training:
+<br>
 ![Loss Graph](outputloss.png)
