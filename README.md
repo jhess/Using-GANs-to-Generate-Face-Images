@@ -23,4 +23,4 @@ Output Faces after just 10 epochs of training:
 ![Generated Faces](outputfaces.png)
 
 Training Loss over 10 epochs of training:
-![Loss Graph](outputlosspng)
+![Loss Graph](outputloss.png)
