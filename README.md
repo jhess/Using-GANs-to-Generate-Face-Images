@@ -18,3 +18,9 @@ Open the notebook file, `dlnd_face_generation_starter.ipynb` and run each sectio
 * **Training Loop**: implemented the training loop.
 
 Building a deep learning model is an iterative process, and it's especially true for GANs!
+
+Output Faces after just 10 epochs of training:
+![Generated Faces](outputfaces.png)
+
+Training Loss over 10 epochs of training:
+![Loss Graph](outputlosspng)
